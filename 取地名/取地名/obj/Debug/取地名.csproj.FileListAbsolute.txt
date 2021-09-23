@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\bin\Debug\取地名.exe.config
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\bin\Debug\取地名.exe
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\bin\Debug\取地名.pdb
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.exe
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.pdb
+c:\users\user\documents\visual studio 2015\Projects\取地名\取地名\obj\Debug\取地名.PlaceName.resources
